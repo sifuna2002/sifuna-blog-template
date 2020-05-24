@@ -1,7 +1,4 @@
-# [Start Bootstrap - Blog Home](https://startbootstrap.com/template-overviews/blog-home/)
-
-[Blog Home](http://startbootstrap.com/template-overviews/blog-home/) is a basic blog homepage HTML starter template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
-
+This is a blog template
 ## Preview
 
 [![Blog Home Preview](https://startbootstrap.com/assets/img/templates/blog-home.jpg)](https://sifuna2002.github.io/sifuna-blog-template/)
